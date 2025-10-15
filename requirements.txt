@@ -1,0 +1,5 @@
+streamlit 
+mediapipe
+numpy 
+pandas 
+cv2
